@@ -1,7 +1,7 @@
 # Welcome to my GitHub Profile! 👋
 
 ## About Me
-Hello! I'm **Wouter Poortman**, a passionate software developer with a keen interest in open-source projects and web development. I enjoy solving complex problems and building innovative solutions that make a difference.
+Hello! I'm **Willem Poortman**, a passionate software developer with a keen interest in open-source projects and web development. I enjoy solving complex problems and building innovative solutions that make a difference.
 
 - 🔭 I’m currently working on various open-source projects, especially related to Magento.
 - 🌱 I’m currently diving deep into Magewire, a Livewire-inspired library for Magento 2.
