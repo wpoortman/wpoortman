@@ -1,26 +1,20 @@
-# Welcome to my GitHub Profile! 👋
+![Willem Poortman — building useful tools for complex systems](assets/hero.svg)
 
-## About Me
-Hello! I'm **Willem Poortman**, a passionate software developer with a keen interest in open-source projects and web development. I enjoy solving complex problems and building innovative solutions that make a difference.
+I'm **Willem**, a self-taught developer in the Netherlands. For more than a decade, I've been building for the web, with a particular interest in making complex software easier to use and easier to extend.
 
-- 🔭 I’m currently working on various open-source projects, especially related to Magento.
-- 🌱 I’m currently diving deep into Magewire, a Livewire-inspired library for Magento 2.
-- 👯 I’m looking to collaborate on exciting and impactful projects.
-- 💬 Ask me about web development, Magento, and open-source contributions.
-- ⚡ Fun fact: I love hiking and exploring the great outdoors.
+I created [Magewire](https://github.com/magewirephp/magewire) to bring reactive interfaces into Magento 2. That same curiosity drives my work on integrations, debugging tools, and small products beyond commerce.
 
-## Skills & Technologies
-- **Languages**: JavaScript, PHP, HTML
-- **Frameworks**: Magento, Laravel, Alpine JS, Tailwind CSS, Magewire PHP
+## Selected work
 
-## GitHub Stats
-![Willems's GitHub stats](https://github-readme-stats.vercel.app/api?username=wpoortman&show_icons=true&theme=radical)
+| For Magento | Beyond commerce |
+| :--- | :--- |
+| **[Magewire →](https://github.com/magewirephp/magewire)**<br>Build dynamic Magento 2 interfaces with a Livewire-inspired approach. | **[Stacktrace →](https://github.com/wpoortman/stacktrace)**<br>A local-first macOS work journal for documenting progress instead of hours. |
+| **[Magehook →](https://github.com/wpoortman/magehook)**<br>A webhook abstraction for Magento 2. | **[Home battery comparison →](https://github.com/wpoortman/stekkerbatterij-vergelijker)**<br>A local tool for comparing plug-in home batteries in the Netherlands by price, specifications, and solar compatibility. |
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wpoortman&layout=compact&theme=radical)
+## Where I work
 
-## Get in Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/wpoortman)
-- 🐦 [Twitter](https://twitter.com/wpoortman)
+`PHP` · `JavaScript` · `Magento 2` · `Laravel` · `Alpine.js` · `Tailwind CSS`
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just say hi! 😊
+## Say hello
+
+Building something in Magento, working on developer tools, or just want to swap ideas? Find me on [LinkedIn](https://www.linkedin.com/in/wpoortman) or [X](https://x.com/wpoortman).
