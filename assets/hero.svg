@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="344" viewBox="0 0 1200 344" role="img" aria-labelledby="title description">
   <title id="title">Willem Poortman</title>
-  <desc id="description">Building useful tools for complex systems.</desc>
+  <desc id="description">Creator of Magewire and architect of Hyvä Checkout. I build things people build on.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1220"/>
@@ -21,16 +21,14 @@
     <circle cx="991" cy="165" r="280" fill="url(#glow)"/>
 
     <path d="M64 69h35" stroke="#45e0c3" stroke-width="4" stroke-linecap="round"/>
-    <text x="113" y="76" fill="#83cbbb" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="700" letter-spacing="3">HELLO, I'M</text>
+    <text x="113" y="76" fill="#83cbbb" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="700" letter-spacing="2">BUILDER · ARCHITECT · OPEN SOURCE</text>
     <text x="64" y="157" fill="#f4f8fb" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="68" font-weight="750" letter-spacing="-3">Willem Poortman</text>
-    <text x="67" y="210" fill="#c7d6df" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="26">Building useful tools for complex systems.</text>
+    <text x="67" y="210" fill="#c7d6df" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="29">I build things people build on.</text>
 
-    <rect x="64" y="255" width="142" height="39" rx="19.5" fill="#173e45" stroke="#327c78"/>
-    <text x="135" y="280" text-anchor="middle" fill="#b7f2e5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="600">open source</text>
-    <rect x="217" y="255" width="128" height="39" rx="19.5" fill="#25314a" stroke="#4a5974"/>
-    <text x="281" y="280" text-anchor="middle" fill="#d2dded" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="600">Magento 2</text>
-    <rect x="356" y="255" width="158" height="39" rx="19.5" fill="#25314a" stroke="#4a5974"/>
-    <text x="435" y="280" text-anchor="middle" fill="#d2dded" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="600">developer tools</text>
+    <rect x="64" y="255" width="194" height="39" rx="19.5" fill="#173e45" stroke="#327c78"/>
+    <text x="161" y="280" text-anchor="middle" fill="#b7f2e5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="600">Magewire creator</text>
+    <rect x="270" y="255" width="255" height="39" rx="19.5" fill="#25314a" stroke="#4a5974"/>
+    <text x="397.5" y="280" text-anchor="middle" fill="#d2dded" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="600">Hyvä Checkout architect</text>
 
     <g fill="none" stroke-linecap="round" stroke-linejoin="round">
       <path d="M837 89h91c24 0 38 14 38 38v22" stroke="#56d9c4" stroke-opacity=".7" stroke-width="3"/>
