@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="344" viewBox="0 0 1200 344" role="img" aria-labelledby="title description">
+  <title id="title">Willem Poortman</title>
+  <desc id="description">Building useful tools for complex systems.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#13243a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38cdb4" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#38cdb4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#96bad0" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="344" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="344" fill="url(#background)"/>
+    <rect width="1200" height="344" fill="url(#grid)"/>
+    <circle cx="991" cy="165" r="280" fill="url(#glow)"/>
+
+    <path d="M64 69h35" stroke="#45e0c3" stroke-width="4" stroke-linecap="round"/>
+    <text x="113" y="76" fill="#83cbbb" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="700" letter-spacing="3">HELLO, I'M</text>
+    <text x="64" y="157" fill="#f4f8fb" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="68" font-weight="750" letter-spacing="-3">Willem Poortman</text>
+    <text x="67" y="210" fill="#c7d6df" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="26">Building useful tools for complex systems.</text>
+
+    <rect x="64" y="255" width="142" height="39" rx="19.5" fill="#173e45" stroke="#327c78"/>
+    <text x="135" y="280" text-anchor="middle" fill="#b7f2e5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="600">open source</text>
+    <rect x="217" y="255" width="128" height="39" rx="19.5" fill="#25314a" stroke="#4a5974"/>
+    <text x="281" y="280" text-anchor="middle" fill="#d2dded" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="600">Magento 2</text>
+    <rect x="356" y="255" width="158" height="39" rx="19.5" fill="#25314a" stroke="#4a5974"/>
+    <text x="435" y="280" text-anchor="middle" fill="#d2dded" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="600">developer tools</text>
+
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M837 89h91c24 0 38 14 38 38v22" stroke="#56d9c4" stroke-opacity=".7" stroke-width="3"/>
+      <path d="M966 195v23c0 24 14 38 38 38h93" stroke="#56d9c4" stroke-opacity=".7" stroke-width="3"/>
+      <path d="M831 227h69c26 0 38-12 38-38v-16" stroke="#91baf8" stroke-opacity=".55" stroke-width="3"/>
+      <path d="M1001 149h71c25 0 37-12 37-37V82" stroke="#91baf8" stroke-opacity=".55" stroke-width="3"/>
+      <rect x="781" y="65" width="93" height="48" rx="13" fill="#162c3c" stroke="#50cbb7" stroke-width="2"/>
+      <rect x="920" y="148" width="93" height="48" rx="13" fill="#183e46" stroke="#69e4ce" stroke-width="2"/>
+      <rect x="1060" y="232" width="93" height="48" rx="13" fill="#162c3c" stroke="#50cbb7" stroke-width="2"/>
+      <rect x="780" y="203" width="77" height="48" rx="13" fill="#192c46" stroke="#83aef0" stroke-width="2"/>
+      <rect x="1068" y="59" width="77" height="48" rx="13" fill="#192c46" stroke="#83aef0" stroke-width="2"/>
+    </g>
+    <g fill="#80ead8">
+      <circle cx="808" cy="89" r="5"/><circle cx="828" cy="89" r="5"/><circle cx="848" cy="89" r="5"/>
+      <circle cx="947" cy="172" r="5"/><circle cx="967" cy="172" r="5"/><circle cx="987" cy="172" r="5"/>
+      <circle cx="1087" cy="256" r="5"/><circle cx="1107" cy="256" r="5"/><circle cx="1127" cy="256" r="5"/>
+    </g>
+    <path d="M803 228h32M1091 84h32" stroke="#9bbdf4" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="968" cy="89" r="5" fill="#8be9d7"/>
+    <circle cx="968" cy="256" r="5" fill="#8be9d7"/>
+  </g>
+</svg>
