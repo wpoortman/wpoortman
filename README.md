@@ -1,20 +1,34 @@
-![Willem Poortman — building useful tools for complex systems](assets/hero.svg)
+![Willem Poortman — creator of Magewire and architect of Hyvä Checkout](assets/hero.svg)
 
-I'm **Willem**, a self-taught developer in the Netherlands. For more than a decade, I've been building for the web, with a particular interest in making complex software easier to use and easier to extend.
+I started out in carpentry. The materials changed, but I still love making things people can build on.
 
-I created [Magewire](https://github.com/magewirephp/magewire) to bring reactive interfaces into Magento 2. That same curiosity drives my work on integrations, debugging tools, and small products beyond commerce.
+I'm **Willem**, a self-taught developer and solutions architect from the Netherlands. I've worked agency-side as a Magento developer, architect, and technical director. Then, over five years at Hyvä, I architected and built **Hyvä Checkout** from the ground up. I also created **Magewire**, an open-source framework for building reactive Magento interfaces in PHP.
 
-## Selected work
+The thread through it all is making ambitious ideas usable for the next developer: clear foundations, thoughtful APIs, and software tested against real projects.
 
-| For Magento | Beyond commerce |
-| :--- | :--- |
-| **[Magewire →](https://github.com/magewirephp/magewire)**<br>Build dynamic Magento 2 interfaces with a Livewire-inspired approach. | **[Stacktrace →](https://github.com/wpoortman/stacktrace)**<br>A local-first macOS work journal for documenting progress instead of hours. |
-| **[Magehook →](https://github.com/wpoortman/magehook)**<br>A webhook abstraction for Magento 2. | **[Home battery comparison →](https://github.com/wpoortman/stekkerbatterij-vergelijker)**<br>A local tool for comparing plug-in home batteries in the Netherlands by price, specifications, and solar compatibility. |
+## Work I'm proud of
 
-## Where I work
+### Hyvä Checkout
 
-`PHP` · `JavaScript` · `Magento 2` · `Laravel` · `Alpine.js` · `Tailwind CSS`
+Checkout grew into a flexible product used by merchants around the world. Its real-world integrations, performance demands, and upgrade paths also became a proving ground for Magewire 3.
 
-## Say hello
+[Explore Hyvä Checkout →](https://docs.hyva.io/hyva-checkout/) · [Read the story →](https://www.linkedin.com/pulse/closing-one-chapter-building-next-willem-poortman-dhfte)
 
-Building something in Magento, working on developer tools, or just want to swap ideas? Find me on [LinkedIn](https://www.linkedin.com/in/wpoortman) or [X](https://x.com/wpoortman).
+### Magewire
+
+I started Magewire in 2021 to make dynamic Magento interfaces possible without a heavy JavaScript architecture. What began as a Livewire-inspired experiment now powers production experiences including Hyvä Checkout. Magewire 3 is the result of years of building, testing, and rethinking the details with real projects.
+
+[Source code →](https://github.com/magewirephp/magewire) · [Documentation →](https://docs.magewirephp.nl/)
+
+## More things I've made
+
+- [Magehook](https://github.com/wpoortman/magehook) — a webhook abstraction for Magento 2.
+- [Stacktrace](https://github.com/wpoortman/stacktrace) — a local-first macOS work journal for showing progress, not hours.
+
+## Thinking in public
+
+I write about the decisions behind the code and share what I learn with the Magento community. A few places to start: [Magewire 3: Getting It Right](https://www.linkedin.com/pulse/magewire-3-getting-right-willem-poortman-drlxe/) and [my MageTitans talk](https://magetitans.nl/archive/2024).
+
+## What's next
+
+After five years at Hyvä, I'm exploring new ideas and opportunities while continuing to build Magewire. If you're working on an ambitious product, wrestling with architecture, or just want to compare notes over coffee, [let's connect](https://www.linkedin.com/in/wpoortman/).
